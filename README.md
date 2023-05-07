@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ana Luiza 
 
-- 🔭 I’m currently working on as a junior programmer in PL/SQL
+- 🔭 I’m currently working on as a Oracle Developer
 - 🌱 I’m currently learning Oracle technologies and PHP, JQuery, SQL, HTML AND CSS
 
 
